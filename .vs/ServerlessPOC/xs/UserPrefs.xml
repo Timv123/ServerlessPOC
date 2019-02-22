@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{AF822332-7D84-402E-8E40-26C52C823722}|Default">
+  <MonoDevelop.Ide.ItemProperties.ServerlessPOC FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ServerlessPOC/www/pages/index.html">
+    <Files>
+      <File FileName="ServerlessPOC/csharp/POC1/ProcessForm.csproj" Line="1" Column="1" />
+      <File FileName="ServerlessPOC/csharp/POC1/ProcessForm.cs" Line="1" Column="1" />
+      <File FileName="ServerlessPOC/www/pages/index.html" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
